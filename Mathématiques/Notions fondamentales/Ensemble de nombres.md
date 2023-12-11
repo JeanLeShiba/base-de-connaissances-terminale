@@ -5,7 +5,7 @@ tags:
   - maths-ensembles
 auteurs:
   - Jean-François
-complété: true
+complété: false
 ---
 # Ensembles de nombre courants
 En mathématiques, les ensembles de nombres les plus courants sont :

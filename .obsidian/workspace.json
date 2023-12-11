@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3631b62d65d7b510",
+        "id": "ef55e9594034545d",
         "type": "tabs",
         "children": [
           {
-            "id": "edc83516aba6311d",
+            "id": "6a30da03471c595f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthodologie.md",
-                "mode": "source",
+                "file": "Mathématiques/Vecteurs de l'espace.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5431cea45ed7f6d9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthodologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthodologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,12 +130,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Méthodologie.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,13 +150,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edc83516aba6311d",
+  "active": "4dfdb443b7e1744c",
   "lastOpenFiles": [
-    "README.md",
     "Mathématiques/Vecteurs de l'espace.md",
+    "Méthodologie.md",
+    "README.md",
+    "Untitled.canvas",
     "Mathématiques/Notions fondamentales/Ensemble de nombres.md",
     "Mathématiques/Notions fondamentales/Dérivation.md",
-    "Méthodologie.md",
     "Philosophie/Le travail et la technique.md",
     "Physique-Chimie/Cinétique chimique.md",
     "Maths Expertes/Nombres complexes.md",
