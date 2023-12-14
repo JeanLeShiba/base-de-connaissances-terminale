@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathématiques/Vecteurs de l'espace.md",
+                "file": "NSI/Arbre Binaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathématiques/Vecteurs de l'espace.md",
+                "file": "NSI/Arbre Binaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathématiques/Vecteurs de l'espace.md",
+                "file": "NSI/Arbre Binaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathématiques/Vecteurs de l'espace.md"
+                "file": "NSI/Arbre Binaire.md"
               }
             }
           }
@@ -169,16 +169,27 @@
   },
   "active": "fc73486cd864b8ae",
   "lastOpenFiles": [
-    "Mathématiques/Notions fondamentales/Vecteurs dans le plan.md",
+    "Méthodologie.md",
+    "NSI/Arbre Binaire.md",
+    "Physique-Chimie/Cinétique chimique.md",
+    "README.md",
+    "NSI/Index.md",
+    "NSI/Images/Pasted image 20231127181743.png",
+    "NSI/Images/Pasted image 20231127180344.png",
+    "NSI/Images/Pasted image 20231127174312.png",
+    "NSI/Images/Pasted image 20231127174137.png",
+    "NSI/Images/Pasted image 20231127174055.png",
+    "NSI/Images/Pasted image 20231127173947.png",
+    "NSI/Images/Pasted image 20231127172206.png",
+    "Arbre Binaire.md",
+    "NSI/Images",
     "Mathématiques/Vecteurs de l'espace.md",
+    "Mathématiques/Notions fondamentales/Vecteurs dans le plan.md",
     "Mathématiques/Notions fondamentales/Dérivation.md",
     "Mathématiques/Dérivée seconde.md",
-    "Méthodologie.md",
-    "README.md",
     "Untitled.canvas",
     "Mathématiques/Notions fondamentales/Ensemble de nombres.md",
     "Philosophie/Le travail et la technique.md",
-    "Physique-Chimie/Cinétique chimique.md",
     "Maths Expertes/Nombres complexes.md",
     "NSI/SQL.md",
     "Philosophie",
@@ -194,7 +205,6 @@
     "Mathématiques/Notions fondamentales",
     "_Templates",
     "Euro SI",
-    "NSI",
-    "Mathématiques"
+    "NSI"
   ]
 }
