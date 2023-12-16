@@ -38,6 +38,6 @@ Quelques cas particuliers (en rapport avec la [[Dérivée seconde]]) :
 
 | Fonction                   | Fonction dérivée          | Dérivabilité         |
 |----------------------------|---------------------------|----------------------|
-| Puissance $f(x)=u^n$ où $n\neq 0$       | $f'(x)=nu'u^{n-1}$        | $\mathbb{I}$         |
+| Puissance $f(x)=u^n$          | $f'(x)=nu'u^{n-1}$        | $\mathbb{I}$         |
 | Racine carrée $f(x)=\sqrt{u}$ | $f'(x)=\frac{u'}{2\sqrt{u}}$ | $\mathbb{I}$ où $u>0$ |
 | Exponentielle de e $f(x)=e^u$ | $f'(x)=u'e^u$            | $\mathbb{I}$         |
