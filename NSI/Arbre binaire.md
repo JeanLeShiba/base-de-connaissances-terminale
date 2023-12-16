@@ -168,7 +168,7 @@ def trouver(self, el): #Renvoie true si l'élement est présent et False s'il n'
     else:
         return self.sad.trouver(el)
 ```
-**Les algorithmes de recherche ont un coup logarithmique de $n * log(n)$**
+**Les algorithmes de recherche ont un coup logarithmique de $n \times log(n)$**
 ## Algorithme d'insertion
 ```python
 def inserer(self, cle):

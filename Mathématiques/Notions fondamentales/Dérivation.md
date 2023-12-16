@@ -16,7 +16,7 @@ complété: true
 | $C$ (constante)           | $0$                        | $\mathbb{R}$ |
 | $mx$                      | $m$                        | $\mathbb{R}$ |
 | $mx+p$                    | $m$                        | $\mathbb{R}$ |
-| $x^n$ ($n\neq 0$)         | $n*x^{n-1}$                 | $\mathbb{R}$ |
+| $x^n$ ($n\neq 0$)         | $n\times x^{n-1}$                 | $\mathbb{R}$ |
 | $\frac{1}{x}$             | $-\frac{1}{x^2}$           | $\mathbb{R}^*$|
 | $\sqrt{x}$                | $\frac{1}{2\sqrt{x}}$      | $\mathbb{R}^+$|
 | $e^{nx}$                  | $ne^{nx}$                  | $\mathbb{R}$ |
@@ -31,7 +31,7 @@ On considère $u$ et $v$ deux fonctions dérivables sur un intervalle $\mathbb{I
 | Produit $f(x) = uv$               | $f'(x) = u'v + uv'$                         | $\mathbb{I}$ |
 | Inverse $f(x) = \frac{1}{u}$      | $f'(x) = -\frac{u'}{u^2}$                    | $\mathbb{I}$ où $u$ non nul |
 | Quotient $f(x) = \frac{u}{v}$     | $f'(x) = \frac{u'v - uv'}{v^2}$              | $\mathbb{I}$ où $v$ non nul |
-| Carré $f(x) = u^2$                | $f'(x) = 2u'*u$                              | $\mathbb{I}$ |
+| Carré $f(x) = u^2$                | $f'(x) = 2u'\times u$                              | $\mathbb{I}$ |
 | Composée $f(x) = u(ax + b)$       | $f'(x) = au'(ax + b)$                       | $\mathbb{I}$ |
 
 Quelques cas particuliers (en rapport avec la [[Dérivée seconde]]) :

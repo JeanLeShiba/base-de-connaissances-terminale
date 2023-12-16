@@ -5,7 +5,7 @@ tags:
   - maths-ensembles
 auteurs:
   - Jean-François
-complété: false
+complété: true
 ---
 # Ensembles de nombre courants
 En mathématiques, les ensembles de nombres les plus courants sont :
@@ -15,7 +15,7 @@ En mathématiques, les ensembles de nombres les plus courants sont :
 1. **Nombres réels ($\mathbb{R}$)** : Incluent tous les nombres rationnels et irrationnels (qui ne peuvent pas s'exprimer comme une fraction). Exemple : $\pi$, $\sqrt{ 2 }$, ...
 2. **Nombres complexes ($\mathbb{C}$)** : Incluent tous les nombres réels ainsi que les nombres impliquant l'unité imaginaire $i$ où $i² = -1$. Exemple : $2+3i$, $-1-i$
 
-En addition de cela, il y a des symboles pouvant accompagner ces ensembles.
+En addition de cela, il y a des symboles pouvant accompagner ces ensembles. Nous prendrons l'ensemble $\mathbb{R}$ pour illustrer :
 
 | Symbole | Signification |
 |---------|---------------|
