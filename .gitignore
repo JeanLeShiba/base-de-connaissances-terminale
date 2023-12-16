@@ -1,1 +1,5 @@
-.obsidian/*
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/workspace.json

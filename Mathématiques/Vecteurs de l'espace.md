@@ -16,6 +16,11 @@ Un vecteur dans l'espace est un objet mathématique représentant une grandeur a
 Soit 3 vecteurs $\vec{u}$, $\vec{v}$ et $\vec{w}$.
 On dit que $\vec{w}$ est **combinaison linéaire** des vecteurs $\vec{u}$ et $\vec{v}$ s'il existe deux réels $a$ et $b$ tels que : $$\vec{w}=a \vec{u} + b \vec{v}$$
 ## Application
->TODO: Cette partie est incomplète et doit être complétée.
+$ABCD$ est un tétraèdre avec $I$ milieu de $[AB]$ et $J$ un point sur $[CD]$.
+![[Pasted image 20231216130446.png]]
+Pour exprimer $\vec{IJ}$ comme une combinaison linéaire des vecteurs $\vec{AB}$, $\vec{AC}$ et $\vec{AD}$ :
+$$\vec{IJ}=\vec{IB}+\vec{BJ}=\frac{1}{2}\vec{AB}+\frac{3}{4}\vec{BC}+\frac{1}{4}\vec{BD}$$
+$$\vec{IJ}=\frac{1}{2}\vec{AB}+\frac{3}{4}\vec{BA}+\frac{3}{4}\vec{AC}+\frac{1}{4}\vec{BA}+\frac{1}{4}\vec{AD}$$
+$$\vec{IJ}=-\frac{1}{2}\vec{AB}+\frac{3}{4}\vec{AC}+\frac{1}{4}\vec{AD}$$
 # Colinéarité
 >TODO: Cette partie est incomplète et doit être complétée.

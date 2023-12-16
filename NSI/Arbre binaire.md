@@ -30,7 +30,7 @@ Les arbres binaires sont des structures de données non linéaire, ils sont util
 # Types d'arbres
 ## **Filiforme**  ou **dégénéré**
 ![[Pasted image 20231127173947.png]]
-Tous les noeud possede un unique enfant sauf le dernier (J) qui est une feuille
+Tous les noeuds possèdent un unique enfant sauf le dernier (J) qui est une feuille.
 ## **Localement complet** ou **strict** 
 ![[Pasted image 20231127174137.png]]
 Tous les noeuds sont soit des feuilles ou ont 2 enfants. 
@@ -50,10 +50,10 @@ Les hauteurs du sous arbre gauche et du sous arbre droit du noeud racine (a) son
 L'arbre binaire peut etre définit comme cela, cependant, il peut exister des variantes où le nom des variables diffèrent, ou alors des variantes avec des noeud, ce qui change les algorithmes ci dessous.
 ```python
 class ArbreBinaire:
-    def __init__(self,etiquette=None,sag=None, sad=None): #Creer la structure, avec une étiquette (la valeur du noeud (cela peux etre un nombre ou une lettre, voir une chaine de caractere (strin)), son sous arbre gauche et son sous arbre droit qui sont des arbres binaires)
-        self.etiquette=etiquette
-        self.sag=sag
-        self.sad=sad
+    def __init__(self, etiquette=None, sag=None, sad=None): #Creer la structure, avec une étiquette (la valeur du noeud (cela peux etre un nombre ou une lettre, voir une chaine de caractere (strin)), son sous arbre gauche et son sous arbre droit qui sont des arbres binaires)
+        self.etiquette = etiquette
+        self.sag = sag
+        self.sad = sad
         
     def est_vide(self): #Renvoie True si l'arbre est vide, sinon False
         if self.etiquette is None:
@@ -77,7 +77,7 @@ Pour calculer la taille d'un arbre binaire, nous pouvons utiliser un algorithme 
 ## Hauteur de l'arbre
 Pour calculer la hauteur d'un arbre binaire, nous pouvons utiliser un algorithme par récurrence.
 
-> Note : **dans la condition d'arrêt il faut return -1, car l'algorithme compte les sous arbres vides.**
+> Note : **Dans la condition d'arrêt il faut return -1, car l'algorithme compte les sous arbres vides.**
 ## Implémentation orienté objet :
 ```python
 def hauteur(self):
@@ -88,7 +88,7 @@ def hauteur(self):
 ```
 
 # Parcours dans l'arbre
-Il existe différent parcours pour parcourir les arbres binaires
+Il existe différent parcours pour parcourir les arbres binaires :
 - Infixe
 - Suffixe / Postfixe
 - Préfixe
@@ -168,7 +168,7 @@ def trouver(self, el): #Renvoie true si l'élement est présent et False s'il n'
     else:
         return self.sad.trouver(el)
 ```
-**Les algorithmes de recherche ont un coup logarithmique : n * log(n)**
+**Les algorithmes de recherche ont un coup logarithmique de $n * log(n)$**
 ## Algorithme d'insertion
 ```python
 def inserer(self, cle):
