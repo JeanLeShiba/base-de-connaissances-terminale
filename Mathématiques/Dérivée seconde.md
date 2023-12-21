@@ -9,7 +9,7 @@ complété:
 aliases:
   - Convexité
 ---
-La dérivée seconde d'une fonction $f$ est la *dérivée de la dérivée*. Elle se note $f''$.
+La dérivée seconde d'une fonction $f$ est la *dérivée de la dérivée* et permet de déterminer la **concavité de $f$**. Elle se note $f''$.
 
 >Avant de continuer je vous conseille de revoir [[Dérivation#Formules de dérivation]] si ce n'est pas pleinement acquis.
 
@@ -29,7 +29,7 @@ Inversement, une fonction est **concave** sur un intervalle si la corde $AB$ se 
 
 Un **point d'inflexion** est un point où la courbe change de concavité. Cela se produit lorsque la dérivée seconde change de signe. À un point d'inflexion, $f''(x)=0$ (mais ce n'est pas une condition suffisante).
 ![[Fct-convexe-concave-01.jpg]]
-Sur cette courbe elle se trouve sur $f(2)$.
+*Sur cette courbe elle se trouve sur $f(2)$.*
 
 ---
 # Application

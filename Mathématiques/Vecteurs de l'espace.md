@@ -23,4 +23,3 @@ $$\vec{IJ}=\vec{IB}+\vec{BJ}=\frac{1}{2}\vec{AB}+\frac{3}{4}\vec{BC}+\frac{1}{4}
 $$\vec{IJ}=\frac{1}{2}\vec{AB}+\frac{3}{4}\vec{BA}+\frac{3}{4}\vec{AC}+\frac{1}{4}\vec{BA}+\frac{1}{4}\vec{AD}$$
 $$\vec{IJ}=-\frac{1}{2}\vec{AB}+\frac{3}{4}\vec{AC}+\frac{1}{4}\vec{AD}$$
 # Colinéarité
->TODO: Cette partie est incomplète et doit être complétée.

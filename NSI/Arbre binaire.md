@@ -28,7 +28,7 @@ Les arbres binaires sont des structures de données non linéaire, ils sont util
 - L'**arité** d'un nœud est le nombre de fils du nœud.
 - L'**arité d'un arbre** est le nombre maximal de fils des nœuds de l'arbre.
 # Types d'arbres
-## **Filiforme**  ou **dégénéré**
+## **Filiforme** ou **dégénéré**
 ![[Pasted image 20231127173947.png]]
 Tous les noeuds possèdent un unique enfant sauf le dernier (J) qui est une feuille.
 ## **Localement complet** ou **strict** 

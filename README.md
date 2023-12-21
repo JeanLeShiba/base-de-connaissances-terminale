@@ -12,7 +12,8 @@ Obsidian est un logiciel de prise de notes avancé, essentiel pour accéder effi
 Après avoir installé Obsidian :
 1. **Pour Contribuer :** Commencez par consulter la section [[Méthodologie]] afin de comprendre comment ajouter du contenu de manière cohérente.
 	-> Une fois que vous avez rédigé des notes ou fait des modifications, vous pouvez contacter Shibzel par Discord afin qu'il puisse vous ajouter en tant que collaborateur sur ce repository Github.
-1. **Pour Explorer :** Parcourez les dossiers des matières qui vous intéressent ou allez dans [[Index]].
+2. **Pour Explorer :** Parcourez les dossiers des matières qui vous intéressent ou allez dans [[Index]].
+Depuis un navigateur, en lecture seule : https://notes.shibzel.com/terminale (peut ne pas être accessible pour le moment; mis à jour quotidiennement).
 ## Contenu du Vault
 Les matières et spécialités disponibles sont :
 - Maths
