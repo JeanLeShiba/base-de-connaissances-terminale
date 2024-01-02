@@ -10,8 +10,10 @@ Ci dessous, l'index de touts les chapitres vus dans chaque matière, par ordre d
 - [[Suites numériques]]
 - [[Dénombrement]]
 - [[Limites de fonctions]]
+- [[Loi binomiale]]
 - [[Dérivée seconde]]
 - [[Vecteurs de l'espace]]
+- [[Continuité]]
 ## Maths Expertes
 - [[Nombres complexes]]
 - [[Divisibilité]]
